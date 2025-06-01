@@ -1,6 +1,6 @@
 #FastAPI и веб-сервер
 fastapi==0.109.1
-uvicorn==0.27.0
+uvicorn==0.34.0
 
 #База данных(PostgreSQL + SQLAlchemy)
 sqlalchemy==2.0.25
